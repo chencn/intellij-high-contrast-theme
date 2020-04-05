@@ -1,0 +1,39 @@
+<idea-plugin>
+    <id>com.github.chencn.intellij-high-contrast-theme</id>
+    <name>Intellij High Contrast Theme</name>
+    <version>0.0.1</version>
+    <vendor email="chenxuq@live.com" url="https://github.com/chencn/intellij-high-contrast-theme">xqchen</vendor>
+
+    <description><![CDATA[
+   <h1>Intellij High Contrast Theme</h1>
+   <p>
+        <b>
+            <a href="https://github.com/chencn/intellij-high-contrast-theme">Github</a>  |  <a href="https://gitee.com/xqchen/intellij-high-contrast-theme">Gitee</a>
+        </b>
+    </p>
+  ]]></description>
+
+    <change-notes><![CDATA[
+  <h1>Intellij High Contrast Theme</h1>
+    <p>v0.0.1</p><ul>
+    <li>Intellij High Contrast Theme</li>
+    </ul>
+  ]]></change-notes>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="173.0"/>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="5df10264-1398-42a6-9a21-d875e11ab78a" path="/High_Contrast_Theme.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>
