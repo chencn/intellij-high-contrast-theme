@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.chencn.intellij-high-contrast-theme</id>
     <name>Intellij High Contrast Theme</name>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <vendor email="chenxuq@live.com" url="https://github.com/chencn/intellij-high-contrast-theme">xqchen</vendor>
 
     <description><![CDATA[
@@ -15,7 +15,7 @@
 
     <change-notes><![CDATA[
   <h1>Intellij High Contrast Theme</h1>
-    <p>v0.0.1</p><ul>
+    <p>v0.0.2</p><ul>
     <li>Intellij High Contrast Theme</li>
     </ul>
   ]]></change-notes>
