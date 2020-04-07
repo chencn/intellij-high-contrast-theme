@@ -1,27 +1,32 @@
 <idea-plugin>
     <id>com.github.chencn.intellij-high-contrast-theme</id>
-    <name>Intellij High Contrast Theme</name>
-    <version>0.0.2</version>
+    <name>High Contrast Theme</name>
+    <version>0.0.4</version>
     <vendor email="chenxuq@live.com" url="https://github.com/chencn/intellij-high-contrast-theme">xqchen</vendor>
 
     <description><![CDATA[
-   <h1>Intellij High Contrast Theme</h1>
+   <h1>High Contrast Theme</h1>
    <p>
         <b>
             <a href="https://github.com/chencn/intellij-high-contrast-theme">Github</a>  |  <a href="https://gitee.com/xqchen/intellij-high-contrast-theme">Gitee</a>
         </b>
+         <div><img src="https://plugins.jetbrains.com/files/14075/screenshot_21493.png" alt="High Contrast Theme" ></div>
+         <div><img src="https://plugins.jetbrains.com/files/14075/screenshot_21491.png" alt="High Contrast Theme" ></div>
+         <div><img src="https://plugins.jetbrains.com/files/14075/screenshot_21492.png" alt="High Contrast Theme" ></div>
+
     </p>
   ]]></description>
 
+
     <change-notes><![CDATA[
-  <h1>Intellij High Contrast Theme</h1>
-    <p>v0.0.2</p><ul>
-    <li>Intellij High Contrast Theme</li>
+  <h1>High Contrast Theme</h1>
+    <p>v0.0.4</p><ul>
+    <li>High Contrast Theme</li>
     </ul>
   ]]></change-notes>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="173.0"/>
+    <idea-version since-build="191.0"/>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
          on how to target different products -->
